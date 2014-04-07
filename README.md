@@ -1,8 +1,7 @@
 Main_Project
 ============
-#####################################################################################
-#######################Adaptive Control System for Robotic Arm#######################
-#####################################################################################
+Adaptive Control System for Robotic Arm
+
 This repository is all about the academic project by Arjun R(arjunr1432@gmail.com), 
 T.M Namitha (namithat9@gmail.com) and Shabin P Bharathan.
 
